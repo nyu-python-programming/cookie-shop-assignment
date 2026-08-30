@@ -1,4 +1,4 @@
-# Cookie Shop Assignment
+# Dictionaries Exercise - Cookie Shop
 
 Your assignment today is to create a virtual cookie shop. You will do this by writing code into a file named `cookie_shop.py`. Several function definitions are indicated in that file with documentation - you must complete these functions. Your program must use each of the functions indicated here to perform the tasks they are designed to perform.
 
